@@ -42,11 +42,11 @@ featured: false
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/hongpeng-guo/CrossRoI'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'https://docs.google.com/presentation/d/1W7bIntMXVzx_SvVTl93GCUPCc08b7lZccL72F8nWFoQ/edit#slide=id.p'
+url_slides: ''
 url_source: ''
 url_video: ''
 ---
