@@ -23,10 +23,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computer Science
+    - course: Ph.D. in Computer Science
       institution: University of Illinois, Urbana Champaign
       year: 2023
-    - course: BEng in Computer Engineering
+    - course: B.Eng. in Computer Engineering
       institution: University of Hong Kong
       year: 2018
 
