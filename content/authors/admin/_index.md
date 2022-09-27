@@ -64,7 +64,7 @@ highlight_name: true
 
 I am a fifth-year PhD student in [Computer Science](https://cs.illinois.edu/) at the University of Illinois, Urbana-Champaign ([UIUC](https://illinois.edu/)). I am fortunate to be advised by [Prof. Klara Nahrstedt](https://monet.cs.illinois.edu/people/klara/) at the [MONET](https://monet.cs.illinois.edu/) research group. My research interests lie at the intersection of systems and machine learning, with a focus on designing resource-efficient machine learning training and inference systems. Some interesting applications I am working on now include large-scale video analytics and federated learning.
 
-Before joining UIUC, I got my bachelor’s degree in Computer Engineering from the University of Hong Kong ([HKU](https://hku.hk/)), where I was fortunate to be advised by [Prof. King-Shan Lui](https://www.eee.hku.hk/people/kslui/).
+Before joining UIUC, I got my bachelor’s degree in Computer Engineering from the University of Hong Kong ([HKU](https://hku.hk/)). I was fortunate to be advised by [Prof. King-Shan Lui](https://www.eee.hku.hk/people/kslui/).
 
 In the past, I have worked with [Google](https://www.google.com/), [Meta](https://about.meta.com/) and [IBM Research](https://research.ibm.com/).
 
