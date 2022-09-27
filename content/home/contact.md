@@ -15,20 +15,10 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
 
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
-
   # Contact details (edit or remove options as required)
   email: hg5@illinois.edu
   address:
-    room: 3101 Siebel Center for Computer Science
-    street: 201 N Goodwin Ave
+    street: 3101 Siebel Center for Computer Science, 201 N Goodwin Ave
     city: Urbana
     region: IL
     postcode: '61801'
