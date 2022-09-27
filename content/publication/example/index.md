@@ -36,7 +36,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3458305.3463381?casa_token=kn239yHOdY4AAAAA:4pspJ6P7UeyMDq5ZYr1TOgPjH7XgFas7UveIErpzqLxxPAsvNCBUFi5ajBRx3Wl8P9-FcZfCZKcaLg'
+url_pdf: ''
 url_code: 'https://github.com/hongpeng-guo/CrossRoI'
 url_dataset: ''
 url_poster: ''
