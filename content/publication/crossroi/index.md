@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'CrossRoI: cross-camera region of interest optimization for efficient real time video analytics at scale'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
