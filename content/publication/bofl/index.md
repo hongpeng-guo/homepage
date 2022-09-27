@@ -1,6 +1,5 @@
 ---
-title: 'CrossRoI: Cross-camera Region of Interest Optimization for
-Efficient Real Time Video Analytics at Scale'
+title: 'BoFL: Bayesian Optimized Local Training Pace Control for Energy Efficient Federated Learning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,11 +12,11 @@ authors:
   - Klara Nahrstedt
 
 
-date: '2021-07-15T00:00:00Z'
-doi: '10.1145/3458305.3463381'
+date: '2022-07-15T00:00:00Z'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-07-15T00:00:00Z'
+publishDate: '2022-07-15T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,8 +25,8 @@ publishDate: '2021-07-15T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 12th ACM Multimedia Systems Conference*
-publication_short: In *MMsys'21*
+publication: In *Proceedings of the 23rd ACM/IFIP International Middleware Conference*
+publication_short: In *Middleware'22*
 
 abstract: Federated learning (FL) is a machine learning paradigm that enables a cluster of decentralized edge devices to collaboratively train a shared machine learning model without exposing users’ raw data. However, the intensive model training computation is energy- demanding and poses severe challenges to end devices’ battery life. In this paper, we present BoFL, a training pace controller deployed on the edge devices that actuates the hardware operational frequencies over multiple configurations to achieve energy-efficient federated learning. BoFL operates in an explore-then-exploit manner within limited rounds of FL tasks. BoFL explores the large hardware frequency space strategically with a tailor-designed Bayesian optimization algorithm. BoFL first find a set of good operational configurations within few task training rounds, and then exploits these configurations in the remaining rounds to achieve minimized energy consumption for model training. Experiments on multiple real-world edge devices with different FL tasks suggest that BoFL can reduce energy consumption of model training by around 26%, and achieve near-optimal energy efficiency.
 
