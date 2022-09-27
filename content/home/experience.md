@@ -30,7 +30,7 @@ experience:
     date_start: '2022-05-06'
     date_end: '2022-08-05'
 
-  - title: PhD Software Engineer Intern, Google Cloud Infrastructure
+  - title: PhD Software Engineer Intern, Cloud Core Infrastructure
     company: Google LLC
     company_url: 'https://about.google/'
     company_logo: google
