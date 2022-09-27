@@ -25,7 +25,7 @@ experience:
   - title: PhD ML Engineer Intern, Privacy Data Enrichment
     company: Meta Inc
     company_url: https://about.meta.com/
-    company_logo: meta
+    company_logo: org-gc
     location: Menlo Park, CA
     date_start: '2022-05-06'
     date_end: '2022-08-05'
@@ -33,7 +33,7 @@ experience:
   - title: PhD Software Engineer Intern, Google Cloud Infrastructure
     company: Google LLC
     company_url: 'https://about.google/'
-    company_logo: google
+    company_logo: org-x
     location: Remote, US
     date_start: '2021-05-17'
     date_end: '2021-08-13'
