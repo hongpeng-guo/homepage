@@ -25,7 +25,7 @@ experience:
   - title: PhD ML Engineer Intern, Privacy Data Enrichment
     company: Meta Inc
     company_url: https://about.meta.com/
-    company_logo: meta.png
+    company_logo: meta
     location: Menlo Park, CA
     date_start: '2022-05-06'
     date_end: '2022-08-05'
