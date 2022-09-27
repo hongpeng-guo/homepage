@@ -29,7 +29,7 @@ publication_types: ['1']
 publication: In *Proceedings of the 12th ACM Multimedia Systems Conference*
 publication_short: In *MMsys'21*
 
-abstract: Video cameras are pervasively deployed in city scale for public good or community safety (i.e. traffic monitoring or suspected person tracking). However, analyzing large scale video feeds in real time is data intensive and poses severe challenges to today's network and computation systems. We present CrossRoI, a resource-efficient system that enables real time video analytics at scale via harnessing the videos content associations and redundancy across a fleet of cameras. CrossRoI exploits the intrinsic physical correlations of cross-camera viewing fields to drastically reduce the communication and computation costs. CrossRoI removes the repentant appearances of same objects in multiple cameras without harming comprehensive coverage of the scene. CrossRoI operates in two phases - an offline phase to establish cross-camera correlations, and an efficient online phase for real time video inference. Experiments on real-world video feeds show that CrossRoI achieves 42% ~ 65% reduction for network overhead and 25% ~ 34% reduction for response delay in real time video analytics applications with more than 99% query accuracy, when compared to baseline methods. If integrated with SotA frame filtering systems, the performance gains of CrossRoI reaches 50% ~ 80% (network overhead) and 33% ~ 61% (end-to-end delay).
+abstract: Federated learning (FL) is a machine learning paradigm that enables a cluster of decentralized edge devices to collaboratively train a shared machine learning model without exposing users’ raw data. However, the intensive model training computation is energy- demanding and poses severe challenges to end devices’ battery life. In this paper, we present BoFL, a training pace controller deployed on the edge devices that actuates the hardware operational frequencies over multiple configurations to achieve energy-efficient federated learning. BoFL operates in an explore-then-exploit manner within limited rounds of FL tasks. BoFL explores the large hardware frequency space strategically with a tailor-designed Bayesian optimization algorithm. BoFL first find a set of good operational configurations within few task training rounds, and then exploits these configurations in the remaining rounds to achieve minimized energy consumption for model training. Experiments on multiple real-world edge devices with different FL tasks suggest that BoFL can reduce energy consumption of model training by around 26%, and achieve near-optimal energy efficiency.
 
 tags: []
 
@@ -42,11 +42,11 @@ featured: false
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/hongpeng-guo/CrossRoI'
+url_code: 'https://github.com/hongpeng-guo/BoFL'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'https://docs.google.com/presentation/d/1W7bIntMXVzx_SvVTl93GCUPCc08b7lZccL72F8nWFoQ/edit#slide=id.p'
+url_slides: 'https://docs.google.com/presentation/d/1W--1i-k9emR_i1eJup0d3dsFi8On9be7sXAelYaXH5Y/edit?pli=1#slide=id.p'
 url_source: ''
 url_video: ''
 ---
