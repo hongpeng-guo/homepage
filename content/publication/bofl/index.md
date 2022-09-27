@@ -6,9 +6,13 @@ title: 'BoFL: Bayesian Optimized Local Training Pace Control for Energy Efficien
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Shuochao Yao
+  - Haotian Gu
   - Zhe Yang
-  - Qian Zhou
+  - Xiaoyang Wang
+  - Eun Kung Lee
+  - Nandhini Chandramoorthy
+  - Tamar Eilam
+  - Deming Chen
   - Klara Nahrstedt
 
 
