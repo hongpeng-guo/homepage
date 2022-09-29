@@ -9,7 +9,7 @@ authors:
   - Haotian Gu
   - Zhe Yang
   - Xiaoyang Wang
-  - Eun Kung Lee
+  - Eun Kyung Lee
   - Nandhini Chandramoorthy
   - Tamar Eilam
   - Deming Chen
