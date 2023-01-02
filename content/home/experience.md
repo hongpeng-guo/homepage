@@ -28,7 +28,8 @@ experience:
     company_logo: janestreet
     location: NYC, NY
     date_start: '2023-05-30'
-    date_end: '2022-08-10'
+    date_end: '2023-08-10'
+
   - title: PhD ML Engineer Intern, Privacy Data Enrichment
     company: Meta Inc
     company_url: https://about.meta.com/
