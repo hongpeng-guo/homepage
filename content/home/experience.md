@@ -22,6 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Quantitative Trading Intern
+    company: Jane Street Group LLC
+    company_url: https://www.janestreet.com/
+    company_logo: janestreet
+    location: NYC, NY
+    date_start: '2023-05-30'
+    date_end: '2022-08-10'
   - title: PhD ML Engineer Intern, Privacy Data Enrichment
     company: Meta Inc
     company_url: https://about.meta.com/
