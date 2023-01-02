@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Incoming Quantitative Trading Intern
-    company: Jane Street Group LLC
+    company: Jane Street LLC
     company_url: https://www.janestreet.com/
     company_logo: janestreet
     location: NYC, NY
