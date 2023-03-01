@@ -16,7 +16,7 @@ authors:
 
 
 date: '2022-06-15T00:00:00Z'
-doi: ''
+doi: '10.1109/ICDCS54860.2022.00055'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-06-15T00:00:00Z'
