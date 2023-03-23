@@ -47,7 +47,7 @@ featured: false
 url_pdf: ''
 url_code: 'https://github.com/hongpeng-guo/BoFL'
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://drive.google.com/drive/folders/1nssiAtZ3HR-mFnNTXPAmTr1x5HiR-6FJ'
 url_project: ''
 url_slides: 'https://docs.google.com/presentation/d/1W--1i-k9emR_i1eJup0d3dsFi8On9be7sXAelYaXH5Y/edit?pli=1#slide=id.p'
 url_source: ''
