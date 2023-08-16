@@ -1,26 +1,22 @@
 ---
-title: 'BoFL: Bayesian Optimized Local Training Pace Control for Energy Efficient Federated Learning'
+title: 'ScaleFlow: Efficient Deep Vision Pipeline with Closed-Loop Scale-Adaptive Inference'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Yuyang Leng
+  - Renyuan Liu
   - admin
-  - Haotian Gu
-  - Zhe Yang
-  - Xiaoyang Wang
-  - Eun Kyung Lee
-  - Nandhini Chandramoorthy
-  - Tamar Eilam
-  - Deming Chen
-  - Klara Nahrstedt
+  - Songqing Chen
+  - Shuochao Yao
 
 
-date: '2022-11-08T00:00:00Z'
-doi: '10.1145/3528535.3565244'
+date: '2023-11-08T00:00:00Z'
+doi: "
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-11-08T00:00:00Z'
+publishDate: '2023-11-08T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,10 +25,10 @@ publishDate: '2022-11-08T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 23rd ACM/IFIP International Middleware Conference*
-publication_short: In *Middleware 2022*
+publication: In *Proceedings of the 31st ACM International Conference on Multimedia*
+publication_short: In *ACM MM 2023*
 
-abstract: Federated learning (FL) is a machine learning paradigm that enables a cluster of decentralized edge devices to collaboratively train a shared machine learning model without exposing users’ raw data. However, the intensive model training computation is energy- demanding and poses severe challenges to end devices’ battery life. In this paper, we present BoFL, a training pace controller deployed on the edge devices that actuates the hardware operational frequencies over multiple configurations to achieve energy-efficient federated learning. BoFL operates in an explore-then-exploit manner within limited rounds of FL tasks. BoFL explores the large hardware frequency space strategically with a tailor-designed Bayesian optimization algorithm. BoFL first find a set of good operational configurations within few task training rounds, and then exploits these configurations in the remaining rounds to achieve minimized energy consumption for model training. Experiments on multiple real-world edge devices with different FL tasks suggest that BoFL can reduce energy consumption of model training by around 26%, and achieve near-optimal energy efficiency.
+abstract: Deep visual data processing is underpinning many life-changing applications, such as auto-driving and smart cities. Improving the accuracy while minimizing their inference time under constrained resources has been the primary pursuit for their practical adoptions. Existing research thus has been devoted to either narrowing down the area of interest for the detection or miniaturizing the deep learning model for faster inference time. However, the former may risk missing/delaying small but important object detection, potentially leading to disastrous consequences (e.g., car accidents), while the latter often compromises the accuracy without fully utilizing intrinsic semantic information. To overcome these limitations, in this work, we propose ScaleFlow, a closed-loop scale-adaptive inference that can reduce model inference time by progressively processing vision data with increasing resolution but decreasing spatial size, achieving speedup without compromising accuracy. For this purpose, ScaleFlow refactors existing neural networks to be scale-equivariant on multiresolution data with the assistance of wavelet theory, providing predictable feature patterns on different data resolutions. Comprehensive experiments have been conducted to evaluate ScaleFlow. The results show that ScaleFlow can support anytime inference, consistently provide 1.5× to 2.2× speed up, and save around 25% ∼ 45% energy consumption with < 1% accuracy loss on four embedded and edge platforms.
 
 tags: []
 
