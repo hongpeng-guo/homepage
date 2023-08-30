@@ -25,7 +25,7 @@ education:
   courses:
     - course: Ph.D. in Computer Science
       institution: University of Illinois, Urbana Champaign
-      year: 2023
+      year: 2024
     - course: B.Eng. in Computer Engineering
       institution: University of Hong Kong
       year: 2018
@@ -67,4 +67,3 @@ I am a fifth-year PhD student in [Computer Science](https://cs.illinois.edu/) at
 Before joining UIUC, I got my bachelor’s degree in Computer Engineering from the University of Hong Kong ([HKU](https://hku.hk/)). I was fortunate to be advised by [Prof. King-Shan Lui](https://www.eee.hku.hk/people/kslui/).
 
 In the past, I have worked with [Google](https://about.google/), [Meta](https://about.meta.com/) and [IBM Research](https://research.ibm.com/).
-
