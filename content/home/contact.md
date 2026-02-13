@@ -16,12 +16,11 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: hg5@illinois.edu
+  email: hpguosherlock@gmail.com
   address:
-    street: 3101 Thomas M. Siebel Center for Computer Science, 201 N Goodwin Ave
-    city: Urbana
-    region: IL
-    postcode: '61801'
+    street: 620 N 6th St
+    city: San Jose
+    region: CA
 
 design:
   columns: '2'

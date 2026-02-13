@@ -6,19 +6,19 @@ title: Hongpeng Guo
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Computer Science
+role: Senior Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Illinois, Urbana Champaign (UIUC)
-    url: https://illinois.edu/
+  - name: ByteDance Seed
+    url: https://www.bytedance.com/
 
 # Interests to show in About widget
 interests:
+  - Reinforcement Learning Systems
   - Distributed Systems
-  - Efficient Machine Learning
-  - Video Analytics
-  - Federated Learning
+  - Large-Scale Model Training
+  - Machine Learning Infrastructure
 
 # Education to show in About widget
 education:
@@ -37,7 +37,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: hg5@illinois.edu
+    link: mailto:hpguosherlock@gmail.com
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=kW0hrZsAAAAJ&hl=en
@@ -56,14 +56,14 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: hg5@illinois.edu
+email: hpguosherlock@gmail.com
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am a fifth-year PhD student in [Computer Science](https://cs.illinois.edu/) at the University of Illinois, Urbana-Champaign ([UIUC](https://illinois.edu/)). I am fortunate to be advised by [Prof. Klara Nahrstedt](https://monet.cs.illinois.edu/people/klara/) at the [MONET](https://monet.cs.illinois.edu/) research group. My research interests lie at the intersection of systems and machine learning, with a focus on designing resource-efficient machine learning training and inference systems. Some applications I am currently working on include large-scale video analytics and federated learning.
+I am a Senior Research Scientist at [ByteDance Seed](https://www.bytedance.com/), where I work on large-scale reinforcement learning training infrastructure for foundation models (LLMs and VLMs). My work focuses on machine learning systems and distributed systems for efficient and stable post-training.
 
-Before joining UIUC, I got my bachelor’s degree in Computer Engineering from the University of Hong Kong ([HKU](https://hku.hk/)). I was fortunate to be advised by [Prof. King-Shan Lui](https://www.eee.hku.hk/people/kslui/).
+I received my Ph.D. in Computer Science from the University of Illinois Urbana-Champaign and my B.Eng. in Computer Engineering from the University of Hong Kong.
 
-In the past, I have worked with [Google](https://about.google/), [Meta](https://about.meta.com/) and [IBM Research](https://research.ibm.com/).
+Previously, I worked at [Anyscale](https://www.anyscale.com/), [Jane Street](https://www.janestreet.com/), [Meta](https://about.meta.com/), and [Google](https://about.google/).
