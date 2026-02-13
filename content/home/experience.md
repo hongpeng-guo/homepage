@@ -25,6 +25,7 @@ experience:
   - title: Senior Research Scientist
     company: ByteDance Seed
     company_url: https://www.bytedance.com/
+    company_logo: bytedance-seed
     location: San Jose, CA
     date_start: "2025-03-01"
     date_end:
@@ -32,6 +33,7 @@ experience:
   - title: Software Engineer
     company: Anyscale
     company_url: https://www.anyscale.com/
+    company_logo: anyscale
     location: San Francisco, CA
     date_start: "2024-04-01"
     date_end: "2025-03-01"
